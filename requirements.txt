@@ -1,7 +1,7 @@
 numpy==2.3.1
 opencv-python==4.11.0.86
 opencv-python-headless==4.11.0.86
-flask
+streamlit
 pandas
 numpy
 scikit-learn
